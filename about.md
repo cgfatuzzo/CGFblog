@@ -8,7 +8,7 @@ What a refreshing approach to knowledge! And following this goodwilling lead, he
 The ambition of this blog is to help bridge the enthusiastic from curious bystander to hands-on practitioner and then maybe even expert, being what I myself hope to accomplish. Stay tuned!
 
 
- <img src="images/publishANDORperish.gif"  height="200"/>  <img src="images/PublishPerish.jpg"  height="200"/>
+ <img src="images/publishANDORperish.gif"  height="190"/>  <img src="images/PublishPerish.jpg"  height="190"/>
 
 
 <a name="myfootnote1">1</a>  which sucks all joy from the researcher life and nurtures all kind of *lovely* side effects in direct opposition with the ideal scientific community - such as the disentivation of ideas circulation (lest someone else beats you to it!) or cooperation, while promoting bad behaviors like antagonism or egotism. Ultimately resulting on a slowing down of the overall process of collective learning, that should be the final goal for all scientists. 
