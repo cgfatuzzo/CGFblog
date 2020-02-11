@@ -3,9 +3,9 @@
 [Markdown](https://guides.github.com/features/mastering-markdown/)
 
 [//]: # (1. TOC
-{:toc}
+{:toc})
 
-## Basic setup
+[//]: # (## Basic setup
 
 Jekyll requires blog post files to be named according to the following format:
 
