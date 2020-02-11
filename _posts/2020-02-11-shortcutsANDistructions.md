@@ -2,12 +2,12 @@
 
 [Markdown](https://guides.github.com/features/mastering-markdown/)
 
-%1. TOC
-%{:toc}
+#1. TOC
+#{:toc}
 
-%## Basic setup
+# ## Basic setup
 
-%Jekyll requires blog post files to be named according to the following format:
+#Jekyll requires blog post files to be named according to the following format:
 
 %`YEAR-MONTH-DAY-filename.md`
 
