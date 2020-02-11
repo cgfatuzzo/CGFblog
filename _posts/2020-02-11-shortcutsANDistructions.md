@@ -17,7 +17,7 @@
 
 [//]: # (## Basic formatting)
 
-[//]: # ( You can use *italics*, **bold**, `code font text`, and create [links](https://www.markdownguide.org/cheat-sheet/). Here's a footnote [^1]. Here's a horizontal rule: )
+ {% You can use *italics*, **bold**, `code font text`, and create [links](https://www.markdownguide.org/cheat-sheet/). Here's a footnote [^1]. Here's a horizontal rule: %}
 
 ---
 
