@@ -17,10 +17,7 @@
 
 [//]: # (## Basic formatting)
 
-[//]: # (You can use *italics*, **bold**, `code font text`, and create)
-[//]: # ([links](https://www.markdownguide.org/cheat-sheet/).)
-
-[//]: # (Here's a footnote [^1]. Here's a horizontal rule:)
+[//]: # (You can use *italics*, **bold**, `code font text`. Here's a footnote [^1]. Here's a horizontal rule:)
 
 ---
 
@@ -58,9 +55,9 @@
     [//]: # (# Do a thing)
    [//]: # (do_thing())
 
-[//]: # (Python code and output:
+[//]: # (example: Python code and output:)
 
-[//]: # (```python
+[//]: # (```python)
 [//]: # (# Prints '2')
 [//]: # (print(1+1))
 [//]: # (```)
