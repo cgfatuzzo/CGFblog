@@ -55,14 +55,14 @@
     [//]: # (# Do a thing)
    [//]: # (do_thing())
 
-[//]: # (example: Python code and output:)
+example: Python code and output:
 
-[//]: # (```python)
-[//]: # (# Prints '2')
-[//]: # (print(1+1))
-[//]: # (```)
+```python
+# Prints '2'
+print(1+1)
+```
 
-    [//]: # (2)
+2
 
 [//]: # (## Tables)
 
