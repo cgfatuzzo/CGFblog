@@ -6,12 +6,12 @@
 # https://learn-the-web.algonquindesign.ca/topics/markdown-yaml-cheat-sheet/#yaml
 # https://learnxinyminutes.com/docs/yaml/
 
-title: Edit _config.yml to set your title!
-description: This is where the description of your site will go. You should change it by editing the _config.yml file. It can be as long as you like! Happy blogging... ❤
-github_username: jph00
+title: the least effort principle: Efficiency meets Laziness
+description: Hello to you all, and welcome to this collection of resources. As my first attempt at blogging, I'll keep my fingers crossed and start by thanking [Jeremy Howard](https://twitter.com/jeremyphoward) for creating [this made-ready template](https://www.fast.ai/2020/01/16/fast_template), and [Andrea La Rosa](https://twitter.com/larosaandrea) for bringing it to my attention.
+github_username: cgfatuzzo
 
 # Email and twitter are optional:
-email:
+email: claudia.fatuzzo@alumni.epfl.ch
 twitter_username:
 
 # Set this to true to get LaTeX math equation support
