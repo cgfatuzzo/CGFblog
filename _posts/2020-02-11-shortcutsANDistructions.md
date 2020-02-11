@@ -49,12 +49,14 @@
 
 [//]: # (## Code)
 
-[//]: # (General preformatted text:)
 
-    [//]: # (# Do a thing)
-   [//]: # (do_thing())
+  # Examples 
+   ## General preformatted text
 
-example: Python code and output:
+   # Do a thing
+   do_thing()
+
+## Python code and output:
 
 ```python
 # Prints '2'
