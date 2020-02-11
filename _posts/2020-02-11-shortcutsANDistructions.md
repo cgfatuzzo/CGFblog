@@ -2,8 +2,8 @@
 
 [Markdown](https://guides.github.com/features/mastering-markdown/)
 
-[//]: # (1. TOC
-{:toc})
+[//]: # (1. TOC)
+[//]: # ({:toc})
 
 [//]: # (## Basic setup)
 
@@ -25,53 +25,53 @@
 
 [//]: # (Here's a list:)
 
-[//]: # (- item 1
-- item 2)
+[//]: # (- item 1)
+[//]: # (- item 2)
 
-And a numbered list:
+[//]: # (And a numbered list:)
 
-1. item 1
-1. item 2
+[//]: # (1. item 1)
+[//]: # (1. item 2)
 
-## Boxes and stuff
+[//]: # (## Boxes and stuff)
 
-> This is a quotation
+[//]: # (> This is a quotation)
 
-{% include alert.html text="You can include alert boxes" %}
+[//]: # ({% include alert.html text="You can include alert boxes" %})
 
-...and...
+[//]: # (...and...)
 
-{% include info.html text="You can include info boxes" %}
+[//]: # ({% include info.html text="You can include info boxes" %})
 
-## Images
+[//]: # (## Images)
 
- ![](/images/logo.png "fast.ai's logo")
- images with html: <img src="images/logo.png" width="100" img align="center"/>
+ [//]: # (![](/images/logo.png "fast.ai's logo"))
+ [//]: # (images with html: <img src="images/logo.png" width="100" img align="center"/>)
 
-## Code
+[//]: # (## Code)
 
-General preformatted text:
+[//]: # (General preformatted text:)
 
-    # Do a thing
-   do_thing()
+    [//]: # (# Do a thing)
+   [//]: # (do_thing())
 
-Python code and output:
+[//]: # (Python code and output:
 
-```python
-# Prints '2'
-print(1+1)
-```
+[//]: # (```python
+[//]: # (# Prints '2')
+[//]: # (print(1+1))
+[//]: # (```)
 
-    2
+    [//]: # (2)
 
-## Tables
+[//]: # (## Tables)
 
-| Column 1 | Column 2 |
-|-|-|
-| A thing | Another thing |
+[//]: # (| Column 1 | Column 2 |)
+[//]: # (|-|-|)
+[//]: # (| A thing | Another thing |)
 
-## Footnotes
+[//]: # (## Footnotes)
 
-[^1]: This is the footnote.
+[//]: # ([^1]: This is the footnote.)
 
-)
+
