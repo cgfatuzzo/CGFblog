@@ -54,9 +54,10 @@
 
   # Examples 
    ## General preformatted text
-
-   # Do a thing
-   do_thing()
+   
+    # Do a thing
+    do_thing()
+simply use tab before text
 
 ## Python code and output:
 
