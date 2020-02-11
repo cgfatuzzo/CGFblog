@@ -1,6 +1,6 @@
 # About
 
-PostDoc in Solid State Physics, exploring a new field. 
+PostDoc in Solid State Physics, exploring a new field.  
 
 Fundamental Science is all interesting and fun, until it is not. Tired of long long long hours in the lab, grown ever more tired of the [publish or perish](https://royalsocietypublishing.org/doi/full/10.1098/rsos.171511) paradigma<sup>[1](#myfootnote1)</sup>, I found myself wandering about life outside of academia, and found a community which trives on open sources and ideas sharing.
 
