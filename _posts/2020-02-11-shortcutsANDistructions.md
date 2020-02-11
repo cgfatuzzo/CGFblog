@@ -46,6 +46,7 @@
 %## Images
 
 %![](/images/logo.png "fast.ai's logo")
+%images with html: <img src="images/logo.png" width="100" img align="center"/>
 
 %## Code
 
