@@ -5,7 +5,7 @@ Hello to you all, and welcome to this collection of resources. As my first attem
 
 ![Image of fast.ai logo](images/logo.png)
 
-## for creating this cool template
+## for this cool template
 
 
 useful shortcuts: [Markdown](https://guides.github.com/features/mastering-markdown/)
