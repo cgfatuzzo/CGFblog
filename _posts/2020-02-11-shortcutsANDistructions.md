@@ -2,7 +2,7 @@
 
 [Markdown](https://guides.github.com/features/mastering-markdown/)
 
-[Blog template](https://github.com/fastai/fast_template)
+[Blog Template](https://github.com/fastai/fast_template)
 
 [Internet Archive](https://archive.org/)
 
