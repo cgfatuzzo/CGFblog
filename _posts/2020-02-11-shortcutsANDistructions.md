@@ -3,6 +3,7 @@
 <img src="https://hitwebcounter.com/counter/counter.php?page=7195283&style=0003&nbdigits=5&type=ip&initCount=0" title="Free-Counter" Alt="hitwebcounter"   border="0" align="right" >
 </a>       
 
+
 # Useful shortcuts
 
 [Markdown](https://guides.github.com/features/mastering-markdown/)
