@@ -16,11 +16,14 @@ by Gareth James, Daniela Witten, Trevor Hastie and Robert Tibshirani (8<sup>th</
  
 [Computer Vision:  Models, Learning, and Inference](http://www.computervisionmodels.com/) by Simon J.D. Prince (Cambridge University Press 2012).
  
+[Machine Learning: A Probabilistic Perspective](https://www.academia.edu/35856835/Machine_Learning_A_Probabilistic_Perspective) 
+by Kevin P. Murphy (The MIT Press 2012).
+
 [Neural Networks - A Systematic Introduction](https://page.mi.fu-berlin.de/rojas/neural/) by Raul Rojas (Springer 1996)
 
 [Neural Networks and Deep Learning](http://neuralnetworksanddeeplearning.com/index.html) by Michael Nielsen (Determination Press 2015).
  
-[Deep Learning](http://www.deeplearningbook.org/) by Ian Goodfellow, Yoshua Bengio and Aaron Courville (MIT Press 2016).
+[Deep Learning](http://www.deeplearningbook.org/) by Ian Goodfellow, Yoshua Bengio and Aaron Courville (the MIT Press 2016).
  
 [Problem Solving with Algorithms and Structures - Release 3.0](https://cgfatuzzo.github.io/2020/02/18/FreeBooks.html)
  by Brad Miller and David Ranum (Luther College 2013). 
