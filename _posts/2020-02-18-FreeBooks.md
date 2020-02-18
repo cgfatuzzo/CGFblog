@@ -14,6 +14,8 @@ by Gareth James, Daniela Witten, Trevor Hastie and Robert Tibshirani (8<sup>th</
  
  [Pattern Recognition and Machine Learning](https://www.microsoft.com/en-us/research/uploads/prod/2006/01/Bishop-Pattern-Recognition-and-Machine-Learning-2006.pdf) by Christopher M. Bishop (Springer 2006).
  
+ [Computer Vision:  Models, Learning, and Inference](http://www.computervisionmodels.com/) by Simon J.D. Prince (Cambridge University Press 2012).
+ 
 [Neural Networks - A Systematic Introduction](https://page.mi.fu-berlin.de/rojas/neural/) by Raul Rojas (Springer 1996)
 
 [Neural Networks and Deep Learning](http://neuralnetworksanddeeplearning.com/index.html) by Michael Nielsen (Determination Press 2015).
