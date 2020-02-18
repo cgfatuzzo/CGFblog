@@ -22,3 +22,6 @@ by Gareth James, Daniela Witten, Trevor Hastie and Robert Tibshirani (8<sup>th</
  
  [Deep Learning](http://www.deeplearningbook.org/) by Ian Goodfellow, Yoshua Bengio and Aaron Courville (MIT Press 2016).
  
+[Problem Solving with Algorithms and Structures - Release 3.0](https://cgfatuzzo.github.io/2020/02/18/FreeBooks.html)
+ by Brad Miller and David Ranum (Luther College 2013). 
+ [Runstone interactive version 2018](http://www.openbookproject.net/books/pythonds/)
