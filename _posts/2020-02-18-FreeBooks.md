@@ -28,3 +28,5 @@ by Kevin P. Murphy (The MIT Press 2012).
 [Problem Solving with Algorithms and Structures - Release 3.0](https://cgfatuzzo.github.io/2020/02/18/FreeBooks.html)
  by Brad Miller and David Ranum (Luther College 2013). 
  [Runstone interactive version 2018](http://www.openbookproject.net/books/pythonds/)
+
+![alt text](https://imgs.xkcd.com/comics/correlation.png "xkcd on correlation")
