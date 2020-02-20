@@ -2,7 +2,7 @@
 
 Eventually I will add a few descriptive lines to the books, for the moment here are links to downloadable or consultable versions.
 
-[Pyhton for Everybody](https://www.py4e.com/book) by Chris Severance ([Creative Commons Attribution-NonCommercialShareAlike](http://creativecommons.org/licenses/by-nc-sa/3.0/) 2009).
+[Pyhton for Everybody - Exploring Data In Python 3 ](https://www.py4e.com/book) by Chris Severance ([Creative Commons Attribution-NonCommercialShareAlike](http://creativecommons.org/licenses/by-nc-sa/3.0/) 2009).
 
 [Statistical Learning Theory](http://read.pudn.com/downloads161/ebook/733192/Statistical-Learning-Theory.pdf) by Vladimir N. Vapnik (Wiley 1998).
  
