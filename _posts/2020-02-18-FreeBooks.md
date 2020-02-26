@@ -1,4 +1,4 @@
-# Recommended Books Available For Free
+# Recommended books available for free
 
 Eventually I will add a few descriptive lines to the books, for the moment here are links to downloadable or consultable versions.
 
