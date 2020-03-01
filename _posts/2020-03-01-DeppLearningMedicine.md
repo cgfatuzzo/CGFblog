@@ -13,7 +13,10 @@ They investigated a library of 6'111 molecules, computing prediction scores for 
 They removed the compounds used to train their model and empirically tested the 99 molecules with highest prediction scores, finding 51 of these molecules to effectively inhibit *E. coli* growth, with higher prediction scores correlated with a greater probability of growth inhibition<sup>[3](#myfootnote3)</sup>.
 Among these 51, they prioritized predicted compounds in preclinical or Phase 1/2/3 studies, those with low structural similarity to training set molecules<sup>[4](#myfootnote4)</sup>, and those with low predicted toxicity. Through this elimination process, emerged ***“halicin”*** (a preclinical nitrothiazole<sup>[5](#myfootnote5)</sup> under investigation as a treatment for diabetes, renamed after *Hal9000* the astronaut-bothering AI in *2001: A Space Odyssey*). 
 
-Halicine was then tested against antibiotic-tolerant *E. coli*, on which had unchanged effectiveness, as well as other drug-resistant bacteria. Halicin was found to be rapidly bactericidal against Mycobacterium tuberculosis and strains of Enterobacteriaceae that are resistant to carbapenems - a group of antibiotics that are considered the last resort for such infections. Halicin also cleared C difficile and multidrug-resistant Acinetobacter baumannii infections.
+Halicine was then tested against antibiotic-tolerant *E. coli*, on which had unchanged effectiveness, as well as other drug-resistant bacteria and it was found to be a broad-spectrum bactericidal antibiotic with exceptional in vivo efficacy<sup>[6](#myfootnote6)</sup>.
+The researchers have already moved to explore larger dataset (comprising more than 107 MILLION compounds), identifying two more molecules that display broad-spectrum activity and maintain activity against antibiotic-tolerant *E. coli*. 
+
+[The Guardian](https://www.theguardian.com/society/2020/feb/20/antibiotic-that-kills-drug-resistant-bacteria-discovered-through-ai)  discusses these results in a more lenghty yet accessible way, alongside their impact and implications.   
 
 <iframe width="900" height="506" src="https://www.youtube.com/embed/xZbcwi7SfZE" frameborder="0" allow="accelerometer; autoplay; encrypted-media; gyroscope; picture-in-picture" allowfullscreen></iframe>
 
@@ -27,3 +30,6 @@ Halicine was then tested against antibiotic-tolerant *E. coli*, on which had unc
 <a name="myfootnote4">4</a> by focusing on compounds that looked effective while structurally different from existing antibiotics (used in the training set), the researchers hoped to find drugs working in radical new ways so that bugs wouldn't have resistance against them.
 
 <a name="myfootnote5">5</a> for those with a knack for medecine: c-Jun N-terminal kinase inhibitor SU3327.
+
+
+<a name="myfootnote6">6</a> halicin was found to be rapidly bactericidal against Mycobacterium tuberculosis and strains of Enterobacteriaceae that are resistant to carbapenems - a group of antibiotics that are considered the last resort for such infections. Halicin also cleared C difficile and multidrug-resistant Acinetobacter baumannii infections.
