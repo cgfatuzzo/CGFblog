@@ -32,4 +32,4 @@ The researchers have already moved to explore larger dataset (comprising more th
 <a name="myfootnote5">5</a> for those with a knack for medecine: c-Jun N-terminal kinase inhibitor SU3327.
 
 
-<a name="myfootnote6">6</a> halicin was found to be rapidly bactericidal against Mycobacterium tuberculosis and strains of Enterobacteriaceae that are resistant to carbapenems - a group of antibiotics that are considered the last resort for such infections. Halicin also cleared C difficile and multidrug-resistant Acinetobacter baumannii infections.
+<a name="myfootnote6">6</a> in patient samples, halicin was found to be rapidly bactericidal against Mycobacterium tuberculosis and strains of Enterobacteriaceae that are resistant to carbapenems - a group of antibiotics that are considered the last resort for such infections. Halicin also cleared C difficile and multidrug-resistant Acinetobacter baumannii infections in mice.
