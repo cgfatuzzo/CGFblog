@@ -12,8 +12,8 @@ work<sup>[2](#myfootnote2)</sup>, researches in MIT have used a deep neural netw
 They investigated a library of 6,111 molecules, computing prediction scores for each compound so that molecules could be ranked according 
 to their probability of inhibiting *E. coli* growth.
 
-
-[![](https://youtu.be/xZbcwi7SfZE?t=16)](https://youtu.be/xZbcwi7SfZE)
+https://www.youtube.com/watch?v=xZbcwi7SfZE
+[![](https://youtu.be/xZbcwi7SfZE?t=16)](https://www.youtube.com/watch?v=xZbcwi7SfZE)
 <a name="myfootnote1">1</a> altough for sure image processing constitutes a great diagnostical opportunity and applications must be blooming 
 
 <a name="myfootnote2">2</a> and was most probably used on many others
