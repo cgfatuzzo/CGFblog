@@ -16,6 +16,8 @@ to their probability of inhibiting *E. coli* growth.
 src="https://youtu.be/xZbcwi7SfZE">
 </iframe>
 
+
+[![](https://youtu.be/xZbcwi7SfZE?t=16)](https://youtu.be/xZbcwi7SfZE)
 <a name="myfootnote1">1</a> altough for sure image processing constitutes a great diagnostical opportunity and applications must be blooming 
 
 <a name="myfootnote2">2</a> and was most probably used on many others
