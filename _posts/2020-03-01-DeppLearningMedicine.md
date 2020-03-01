@@ -13,7 +13,7 @@ They investigated a library of 6,111 molecules, computing prediction scores for 
 to their probability of inhibiting *E. coli* growth.
 
 <iframe width="420" height="315"
-src="https://youtu.be/xZbcwi7SfZE">
+src="https://www.youtube.com/watch?v=xZbcwi7SfZE">
 </iframe>
 
 
