@@ -17,7 +17,8 @@ The researchers have already moved to explore a larger dataset (comprising more 
 
 While [The Guardian](https://www.theguardian.com/society/2020/feb/20/antibiotic-that-kills-drug-resistant-bacteria-discovered-through-ai) discusses these results in a more lenghty yet accessible way, I'd like to stress what these results represent in term of knowledge advancement. 
 Halicine might have never reached clinical trials, and even then its bactericidal properties might have been overlooked or listed among adverse side effects. 
-107 million compounds, or even 'just' 6 thousands, would require an enormous amount of time and money to 'traditionally' explore. 
+107 million compounds, or even 'just' 6 thousands, would require an enormous amount of time and money to traditionally explore. 
+Furthermore, the availability of such a tool might even allow for antibiotic 'engineering'.
 Machine learning has enabled a new fast promising route towards solving a complicated important and scary problem, and leaves me wonder about its incredible potential for applications in so many different fields: will it be solving problems that we don't even know we have yet? I guess, the sky is the limit.
 
 
