@@ -6,17 +6,20 @@ so much that [Nature](https://www.nature.com/) has already published a
 I am not aware of what exactly is the status in medecine<sup>[1](#myfootnote1)</sup> but I have heard all my friends/relatives 
 who are ***real doctors*** worringly discuss the growing issue of drug-resistant infections, so here is a shout-out to them all: AI came in our rescue!
 
-Following a process that reminded me of 
-[this](https://www.researchgate.net/publication/334209824_Unsupervised_word_embeddings_capture_latent_knowledge_from_materials_science_literature) 
-work<sup>[2](#myfootnote2)</sup>, researches in MIT have used a [deep neural network model to identify new antibiotics](https://www.cell.com/cell/fulltext/S0092-8674(20)30102-1).
+Following a process that reminded me of [this](https://www.researchgate.net/publication/334209824_Unsupervised_word_embeddings_capture_latent_knowledge_from_materials_science_literature) work<sup>[2](#myfootnote2)</sup>, researches in MIT have used a [deep neural network model to identify new antibiotics](https://www.cell.com/cell/fulltext/S0092-8674(20)30102-1).
 They investigated a library of 6'111 molecules, computing prediction scores for each compound so that molecules could be ranked according to their probability of inhibiting *E. coli* growth. 
 They removed the compounds used to train their model and empirically tested the 99 molecules with highest prediction scores, finding 51 of these molecules to effectively inhibit *E. coli* growth, with higher prediction scores correlated with a greater probability of growth inhibition<sup>[3](#myfootnote3)</sup>.
-Among these 51, they prioritized predicted compounds in preclinical or Phase 1/2/3 studies, those with low structural similarity to training set molecules<sup>[4](#myfootnote4)</sup>, and those with low predicted toxicity. Through this elimination process, emerged ***“halicin”*** (a preclinical nitrothiazole<sup>[5](#myfootnote5)</sup> under investigation as a treatment for diabetes, renamed after *Hal9000* the astronaut-bothering AI in *2001: A Space Odyssey*). 
+Among these 51, they prioritized predicted compounds in preclinical or Phase 1/2/3 studies, those with low structural similarity to training set molecules<sup>[4](#myfootnote4)</sup>, and those with low predicted toxicity. 
+Through this elimination process, emerged ***“halicin”*** (a preclinical nitrothiazole<sup>[5](#myfootnote5)</sup> under investigation as a treatment for diabetes, renamed after *Hal9000* the astronaut-bothering AI in *2001: A Space Odyssey*). 
 
 Halicine was then tested against antibiotic-tolerant *E. coli*, on which had unchanged effectiveness, as well as other drug-resistant bacteria and it was found to be a **broad-spectrum bactericidal antibiotic with exceptional in vivo efficacy**<sup>[6](#myfootnote6)</sup>.
 The researchers have already moved to explore a larger dataset (comprising more than 107 MILLION compounds), identifying two more molecules that display broad-spectrum activity and maintain activity against antibiotic-tolerant *E. coli*. 
 
-While [The Guardian](https://www.theguardian.com/society/2020/feb/20/antibiotic-that-kills-drug-resistant-bacteria-discovered-through-ai) discusses these results in a more lenghty yet accessible way, alongside their impact and implications, I'd like to stress what these results represent in term of knowledge advancement. Halicine might have never reached clinical trials, and even then its bactericidal properties might have been overlooked or listed among adverse side effects. 107 million compounds, or even 'just' 6 thousands, would require an enormous amount of time and money to explore 'traditionally. Machine learning has enabled a new fast promising route towards solving a complicated important and scary problem, and leaves me wonder about its incredible potential for applications in so many different fields, will it be solving problems that we don't even know we have yet?
+While [The Guardian](https://www.theguardian.com/society/2020/feb/20/antibiotic-that-kills-drug-resistant-bacteria-discovered-through-ai) discusses these results in a more lenghty yet accessible way, alongside their impact and implications, I'd like to stress what these results represent in term of knowledge advancement. 
+Halicine might have never reached clinical trials, and even then its bactericidal properties might have been overlooked or listed among adverse side effects. 
+107 million compounds, or even 'just' 6 thousands, would require an enormous amount of time and money to 'traditionally' explore. 
+Machine learning has enabled a new fast promising route towards solving a complicated important and scary problem, and leaves me wonder about its incredible potential for applications in so many different fields: will it be solving problems that we don't even know we have yet? I guess, the sky is the limit.
+
 
 <iframe width="900" height="506" src="https://www.youtube.com/embed/xZbcwi7SfZE" frameborder="0" allow="accelerometer; autoplay; encrypted-media; gyroscope; picture-in-picture" allowfullscreen></iframe>
 
