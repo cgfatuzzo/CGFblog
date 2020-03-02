@@ -23,7 +23,7 @@ Machine learning has enabled a new fast promising route towards solving a compli
  
    <br>
 
-<iframe width="680" height="490"  src="https://www.youtube.com/embed/xZbcwi7SfZE" frameborder="0" allow="accelerometer; autoplay; encrypted-media; gyroscope; picture-in-picture" allowfullscreen></iframe>
+<iframe width="680" height="470"  src="https://www.youtube.com/embed/xZbcwi7SfZE" frameborder="0" allow="accelerometer; autoplay; encrypted-media; gyroscope; picture-in-picture" allowfullscreen></iframe>
  
    <br>
 
