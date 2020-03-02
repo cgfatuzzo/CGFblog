@@ -20,7 +20,7 @@ Halicine might have never reached clinical trials, and even then its bactericida
 107 million compounds, or even 'just' 6 thousands, would require an enormous amount of time and money to traditionally explore. 
 Furthermore, the availability of such a tool might even allow for antibiotic 'engineering'.
 Machine learning has enabled a new fast promising route towards solving a complicated important and scary problem, and leaves me wonder about its incredible potential for applications in so many different fields: will it be solving problems that we don't even know we have yet? I guess, the sky is the limit.
-
+ 
    <br>
 
 <iframe width="700" height="250"  src="https://www.youtube.com/embed/xZbcwi7SfZE" frameborder="0" allow="accelerometer; autoplay; encrypted-media; gyroscope; picture-in-picture" allowfullscreen></iframe>
