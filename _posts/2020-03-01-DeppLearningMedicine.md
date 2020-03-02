@@ -25,7 +25,7 @@ Machine learning has enabled a new fast promising route towards solving a compli
 
 <iframe width="750"  src="https://www.youtube.com/embed/xZbcwi7SfZE" frameborder="0" allow="accelerometer; autoplay; encrypted-media; gyroscope; picture-in-picture" allowfullscreen></iframe>
  
-  <br>
+   <br>
 
 <a name="myfootnote1">1</a> altough for sure image processing constitutes a great diagnostical opportunity and applications must be blooming.
 
