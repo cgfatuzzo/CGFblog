@@ -1,4 +1,4 @@
-# Deep learning to fight drug-resistant bacteria
+# Deep learning to fight drug-resistant bacteria 
 
 Machine learning has been successfully applied to physics problem since a few years already, 
 so much that [Nature](https://www.nature.com/) has already published a 
