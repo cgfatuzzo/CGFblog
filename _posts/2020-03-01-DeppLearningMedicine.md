@@ -15,7 +15,7 @@ Through this elimination process, emerged ***“halicin”*** (a preclinical nit
 Halicine was then tested against antibiotic-tolerant *E. coli*, on which had unchanged effectiveness, as well as other drug-resistant bacteria and it was found to be a **broad-spectrum bactericidal antibiotic with exceptional in vivo efficacy**<sup>[6](#myfootnote6)</sup>.
 The researchers have already moved to explore a larger dataset (comprising more than 107 MILLION compounds), identifying two more molecules that display broad-spectrum activity and maintain activity against antibiotic-tolerant *E. coli*. 
 
-While [The Guardian](https://www.theguardian.com/society/2020/feb/20/antibiotic-that-kills-drug-resistant-bacteria-discovered-through-ai) discusses these results in a more lenghty yet accessible way, I'd like to stress what these results represent in term of knowledge advancement. 
+While [The Guardian](https://www.theguardian.com/society/2020/feb/20/antibiotic-that-kills-drug-resistant-bacteria-discovered-through-ai) discusses these results in a more lenghty yet accessible way, I'd like to stress what accomplishment this algorithm represents. 
 Halicine might have never reached clinical trials, and even then its bactericidal properties might have been overlooked or listed among adverse side effects. 
 107 million compounds, or even 'just' 6 thousands, would require an enormous amount of time and money to traditionally explore. 
 Furthermore, the availability of such a tool might even allow for antibiotic 'engineering'.
