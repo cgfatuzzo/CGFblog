@@ -36,5 +36,7 @@ by Kevin P. Murphy (The MIT Press 2012).
  [Runstone interactive version 2018](http://www.openbookproject.net/books/pythonds/).
 
 Notice: All the links provided here where found by searching public online content. I have tried to refer to the publisher/author's pages whenever possible and am happy to amend/remove any link should the request arise. These books, like all content of this blog, are intended for personal use and not for commercialization. Hope you find them useful!
-
+ 
+  <br>
+  
  ![alt text](https://imgs.xkcd.com/comics/correlation.png "xkcd on correlation")
