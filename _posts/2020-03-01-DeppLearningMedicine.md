@@ -8,7 +8,7 @@ who are ***real doctors*** worringly discuss the growing issue of drug-resistant
 
 Following a process that reminded me of [this](https://www.researchgate.net/publication/334209824_Unsupervised_word_embeddings_capture_latent_knowledge_from_materials_science_literature) work<sup>[2](#myfootnote2)</sup>, researches in MIT have used a [deep neural network model to identify new antibiotics](https://www.cell.com/cell/fulltext/S0092-8674(20)30102-1).
 They investigated a library of 6'111 molecules, computing prediction scores for each compound so that molecules could be ranked according to their probability of inhibiting *E. coli* growth. 
-They removed the compounds used to train their model and empirically tested the 99 molecules with highest prediction scores, finding 51 of these molecules to effectively inhibit *E. coli* growth, with higher prediction scores correlated with a greater probability of growth inhibition<sup>[3](#myfootnote3)</sup>.
+They removed the compounds used to train their model and empirically tested the 99 molecules with highest prediction scores, finding 51 of these molecules to effectively inhibit *E. coli* growth - with higher prediction scores correlated with a greater probability of growth inhibition<sup>[3](#myfootnote3)</sup>.
 Among these 51, they prioritized compounds in preclinical studies, those with low structural similarity to training set molecules<sup>[4](#myfootnote4)</sup>, and those with low predicted toxicity. 
 Through this elimination process, emerged ***“halicin”*** (a preclinical nitrothiazole<sup>[5](#myfootnote5)</sup> under investigation as a treatment for diabetes, renamed after *Hal9000* the astronaut-bothering AI in *2001: A Space Odyssey*). 
 
