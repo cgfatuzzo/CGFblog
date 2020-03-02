@@ -13,7 +13,7 @@ Among these 51, they prioritized compounds in preclinical studies, those with lo
 Through this elimination process, emerged ***“halicin”*** (a preclinical nitrothiazole<sup>[5](#myfootnote5)</sup> under investigation as a treatment for diabetes, renamed after *Hal9000* the astronaut-bothering AI in *2001: A Space Odyssey*). 
 
 Halicine was then tested against antibiotic-tolerant *E. coli*, on which had unchanged effectiveness, as well as other drug-resistant bacteria and it was found to be a **broad-spectrum bactericidal antibiotic with exceptional in vivo efficacy**<sup>[6](#myfootnote6)</sup>.
-The researchers have already moved to explore a larger dataset (comprising more than 107 MILLION compounds), identifying two more molecules that display broad-spectrum activity and maintain activity against antibiotic-tolerant *E. coli*. 
+The researchers have already moved to explore a larger dataset (comprising more than **107 MILLION compounds**, that were **screened in 4 days**), identifying two more molecules that display broad-spectrum activity and maintain activity against antibiotic-tolerant *E. coli*. 
 
 While [The Guardian](https://www.theguardian.com/society/2020/feb/20/antibiotic-that-kills-drug-resistant-bacteria-discovered-through-ai) discusses these results in a more lenghty yet accessible way, I'd like to stress what an accomplishment this algorithm represents. 
 Halicine might have never reached clinical trials, and even then its bactericidal properties might have been overlooked or listed among adverse side effects. 
