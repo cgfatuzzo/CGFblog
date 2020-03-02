@@ -22,10 +22,8 @@ Furthermore, the availability of such a tool might even allow for antibiotic 'en
 Machine learning has enabled a new fast promising route towards solving a complicated important and scary problem, and leaves me wonder about its incredible potential for applications in so many different fields: will it be solving problems that we don't even know we have yet? I guess, the sky is the limit.
 
 
-
 <iframe width="900" height="506" src="https://www.youtube.com/embed/xZbcwi7SfZE" frameborder="0" allow="accelerometer; autoplay; encrypted-media; gyroscope; picture-in-picture" allowfullscreen></iframe>
 
-\s\s
 
 <a name="myfootnote1">1</a> altough for sure image processing constitutes a great diagnostical opportunity and applications must be blooming.
 
