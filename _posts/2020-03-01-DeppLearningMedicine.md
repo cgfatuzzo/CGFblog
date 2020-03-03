@@ -27,7 +27,7 @@ Machine learning has enabled a new fast promising route towards solving a compli
  
    <br>
 
-<a name="myfootnote1">1</a> altough for sure image processing constitutes a great diagnostical opportunity and applications must be blooming.
+<a name="myfootnote1">1</a> altough for sure image processing constitutes a great diagnostical opportunity and applications must be blooming. Q.e.d.: seems that AI is being used for [faster covid-19 diagnosis](https://thenextweb.com/neural/2020/03/02/alibabas-new-ai-system-can-detect-coronavirus-in-seconds-with-96-accuracy/) in China.
 
 <a name="myfootnote2">2</a> and was most probably used on many others.
 
